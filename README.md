@@ -1,1 +1,1 @@
-# social-media-suicidal-ideation-detection
+# mlops llm project
